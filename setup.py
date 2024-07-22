@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mymath_custome",
-    version="0.1.0",
+    name="mymath_module",
+    version="0.2.0",
     packages=find_packages(),
     description="A custom math operations package",
     long_description=open("README.md").read(),
