@@ -1,18 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# mymath_custome
+# mymath_module
 
-`mymath_custome` is a custom Python module that provides a variety of mathematical functions, including arithmetic operations, factorials, prime number checks, and more.
+## Description
+
+`mymath_module` is a custom Python package for performing various mathematical operations, including finding the greatest common divisor (GCD), least common multiple (LCM), factorials, and primality testing.
 
 ## Installation
 
-You can install the package via pip:
+You can install the package from PyPI using pip:
 
 ```bash
-pip install mymath_custome
-=======
-# MyMathModule
->>>>>>> b49b7df4997d2aa360320a77bfa6cff29849838f
-=======
-# MyMathModule
->>>>>>> 365ae124a6209a86fd8d0e65f4f66334d46cfca1
+pip install mymath_module
