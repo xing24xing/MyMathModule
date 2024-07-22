@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mymath_custome
 
 `mymath_custome` is a custom Python module that provides a variety of mathematical functions, including arithmetic operations, factorials, prime number checks, and more.
@@ -12,3 +13,6 @@ pip install mymath_custome
 =======
 # MyMathModule
 >>>>>>> b49b7df4997d2aa360320a77bfa6cff29849838f
+=======
+# MyMathModule
+>>>>>>> 365ae124a6209a86fd8d0e65f4f66334d46cfca1

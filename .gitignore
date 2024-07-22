@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 *.pyo
@@ -7,6 +8,8 @@ dist/
 build/
 *.egg-info/
 =======
+=======
+>>>>>>> 365ae124a6209a86fd8d0e65f4f66334d46cfca1
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,4 +172,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+<<<<<<< HEAD
 >>>>>>> b49b7df4997d2aa360320a77bfa6cff29849838f
+=======
+>>>>>>> 365ae124a6209a86fd8d0e65f4f66334d46cfca1
