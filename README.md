@@ -9,4 +9,4 @@
 You can install the package from PyPI using pip:
 
 ```bash
-pip install mymath_module
+pip install mymath-module-package==0.2.1
