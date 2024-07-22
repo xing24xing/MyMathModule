@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mymath_module_package",  # Name of your package
+    name="math_module_package",  # Name of your package
     version="0.2.1",       # Version of your package
     packages=find_packages(),  # Automatically find packages in the current directory
     description="A custom math operations package",  # Short description of your package
